@@ -1,2 +1,3 @@
-# card_categorizer
-A script to guess the category of a card based on the data from cedh.guide
+Run `python card_categorizer.py <card name>` to guess the category of a card
+
+You can also import the script in a new file as a package to run it automatically on large groups of cards
